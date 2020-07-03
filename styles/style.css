@@ -261,6 +261,7 @@ text-decoration: none;
 .landing-page-body {
   width: 80%;
   margin: 0 auto;
+  max-width: 1200px;
   font-family: 'Montserrat', sans-serif;
 }
 .landing-page-products {
